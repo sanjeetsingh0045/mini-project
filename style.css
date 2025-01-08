@@ -1,0 +1,292 @@
+.heading{
+    display: flex;
+    width: 100%;
+    background-color: brown;   
+  }
+  .heading-imag{
+     display: flex;
+     width: 500px;
+  }
+   .heading-line  
+   {         
+      Font-size:20px;     
+      color:white; 
+      font-weight: 400;   
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+     }
+    .nav
+       {
+        background-color:black;
+         font-size:1px;
+          color:white;
+          text-align:center;
+           }
+          .nav{
+            display: flex;
+          }
+          .nav ul{
+            display: flex;
+          }
+           .nav ul li{
+            display: flex;
+            list-style: none;
+           }
+           .nav ul li a{
+                margin-left: 40px;
+                margin-right: 40px;
+               text-decoration: none;
+               font-size: medium;
+               color:white;
+           }
+           .line1{
+            text-align: center;
+            font-size: large;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-weight: 200;
+            font-style: italic;
+           }
+    .line2
+     {
+       color:red;
+       font-style: italic;
+       font-size: 30px;
+     }
+     .line2-bla
+     { 
+       color:green;
+       }
+       .follow{
+        font-size: 22px;
+        text-align: center;
+       }
+       .move-marquee{
+        font-size: 25;
+        font-style: italic;
+        font-weight: 200;
+       }
+       .tool{
+          font-size:35px;
+          text-align: center;
+          color: blue;
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+          font-weight: 200; }
+    .g
+       {
+           
+           padding:150px;
+           margin:-100px;
+       }
+       .boxresult
+        {
+            font-size:15px;
+            border:2px solid brown;
+            height: 600px;
+            border-radius: 20px;
+         }
+            .boxadmitcard
+        {
+            font-size:15px;
+            border:2px solid brown;
+            height: 600px;
+            border-radius: 20px;
+         }
+            .boxlatestjobs
+        {
+          font-size:15px;
+            border:2px solid brown;
+            height: 600px;
+            border-radius: 20px;
+         }
+          .boxanswerkeys
+        {
+          font-size:15px;
+            border:2px solid brown;
+            height: 300px;
+            border-radius: 20px;
+      }
+      .boxsyllabus 
+        {
+          font-size:15px;
+            border:2px solid brown;
+            height: 300px;
+            border-radius: 20px;
+      }
+      .boxadmission
+        {
+          font-size:15px;
+            border:2px solid brown;
+            height: 450px;
+            border-radius: 20px;
+      }
+       .boxcertificate 
+        {
+          font-size:15px;
+            border:2px solid brown;
+            height: 300px;
+            border-radius: 20px;
+          }
+           .boximportant 
+        {
+          font-size:15px;
+            border:2px solid brown;
+            height: 300px;
+            border-radius: 20px;
+          }
+          .see
+        {
+          margin-left:-2%;
+          text-align:center;
+          font-size:5;
+          
+      }
+      .see a{
+        text-decoration: none;
+        color: blue;
+        font-size: 25px;
+        font-weight: 500;
+      }
+      .lastin
+       {
+             background-color:brown;
+             Font-size:25px;
+             border:5px;
+             color:white;
+         }
+         fieldset
+         {
+            
+             border-color:orange;
+             width:70%;
+             text-align:center;
+             float:center;
+         }
+         .black
+         {
+             color:black;
+             Font-size:15px;
+         }
+             #flast
+         {
+             font-size:15px;
+             color:black;
+         }
+         #ghot
+         {
+             font-size:08px;
+             color:black;
+         }
+         .red a{
+          text-decoration: none;
+          color: white;
+         }
+         .gre a{
+          text-decoration: none;
+          color: white;
+         }
+         .pin a{
+          text-decoration: none;
+          color: white;
+         }
+         .blue a{
+          text-decoration: none;
+          color: white;
+         }
+         .gra a{
+          text-decoration: none;
+          color: white;
+         }
+         .ora a{
+          text-decoration: none;
+          color: white;
+         }
+         .pur a{
+          text-decoration: none;
+          color: white;
+         }
+         .yel a{
+          text-decoration: none;
+          color: white;
+         }
+         .content{
+          border: 2px solid black;
+         }
+         .red{
+              font-size:15px;
+              color:black;
+              background-color:red;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+             }
+         .blue{
+              font-size:15px;
+              color:black;
+              background-color:blue;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+             }
+          .pin{
+              font-size:15px;
+              color:black;
+              background-color:pink;
+              padding: 20px;
+              height: 125px;
+              border-radius: 20px;
+             }
+           .gre{
+              font-size:15px;
+              color:black;
+              background-color:green;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+            }
+            .footer{
+              color: white;
+              background-color: black;
+            }
+            .footer ul li{
+              list-style: none;
+            }
+           .gra{
+              font-size:15px;
+              color:black;
+              background-color:gray;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+             }
+          .ora{
+              font-size:15px;
+              color:black;
+              background-color:orange;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+             }
+           .yel{
+              font-size:15px;
+              color:black;
+              background-color: yellow;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+              
+             }
+               .pur{
+              font-size:15px;
+              color:black;
+              background-color: brown;
+              padding: 20px;
+              height: 120px;
+              border-radius: 20px;
+             }
+             .con_big_box{
+              border: 1px solid gray;
+             }
+             .con_box{
+              border: 1px solid gray;
+              padding: 10px;
+             }
